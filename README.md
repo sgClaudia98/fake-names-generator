@@ -1,3 +1,8 @@
+CREDIT TO:https://github.com/nodejs/examples
+
+IS PERSONAL USE ONLY
+
+
 # fake-names-generator
 
 CLI built with [commander](https://www.npmjs.com/package/commander) to generate fake names using [Chance](https://www.npmjs.com/package/chance)
